@@ -1,0 +1,37 @@
+# Web Framework
+fastapi
+uvicorn
+pydantic
+
+# Database
+sqlalchemy
+
+# LLM & RAG
+langchain
+langchain-community
+chromadb
+
+# Frontend
+streamlit
+streamlit-option-menu
+
+# Voice & OCR
+SpeechRecognition
+pytesseract
+Pillow
+
+# Data Processing
+pandas
+numpy
+
+# Visualization
+plotly
+matplotlib
+
+# Utilities
+python-dotenv
+requests
+
+# PDF Processing
+PyPDF2
+reportlab

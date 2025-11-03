@@ -1,0 +1,9 @@
+*.db
+__pycache__/
+.env
+.streamlit/
+chroma_db/
+uploaded_files/
+*.pyc
+.DS_Store
+.venv/
